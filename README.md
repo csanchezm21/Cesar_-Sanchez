@@ -1,14 +1,19 @@
-# Cesar_-Sanchez
-👋 Hola, soy César Sánchez
+Hola, soy César Sánchez 👋
 
-💻 Desarrollador Web Junior
+💻 Estudiante de Ingeniería de Software
+🚀 Desarrollador Frontend y Backend en formación
+📚 Aprendiendo JavaScript, Node.js, Express y MySQL
+🎯 Enfocado en desarrollar proyectos reales y convertirme en Desarrollador Full Stack
 
-🚀 Tecnologías:
-- HTML, CSS, JavaScript
+## Tecnologías
+- HTML
+- CSS
+- JavaScript
 - Node.js
+- Express
 - MySQL
+- Git y GitHub
 
-📚 Actualmente aprendiendo:
-- Backend avanzado
-- Buenas prácticas
+## Objetivos actuales
+- Mejorar la arquitectura backend
 
